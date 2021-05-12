@@ -36,7 +36,7 @@ Create Bootstrap Tabs. Get the contents (Text, Title and Permalink-Name) from Sn
 ```[plugin=bs-tabs.php]key=word[/plugin]```
 
 ### captcha
-This Plugin is not ready to use. You can use this Captcha in your Forms. Include the file captcha_calc.php for Math-Based Captcha or captcha_img.php for Image-Based Captcha. An example will appear soon. Includet font: [Ubuntu Mono](https://design.ubuntu.com/font/) distributed under an [open licence](http://www.ubuntu.com/legal/terms-and-policies/font-licence).
+This Plugin is not ready to use. You can use this Captcha in your Forms. Include the file captcha_calc.php for Math-Based Captcha or captcha_img.php for Image-Based Captcha. An example will appear soon. Included font: [Ubuntu Mono](https://design.ubuntu.com/font/) distributed under an [open licence](http://www.ubuntu.com/legal/terms-and-policies/font-licence).
 
 ### downloader
 This Plugin creates a simple Download Button. The download file must be in the /content/images/ directory.
